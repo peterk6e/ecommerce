@@ -414,7 +414,7 @@ span.text-red {
 
 .product-detail-image {
   border-radius: 15px;
-  background-color: #ebebeb;
+  background-color: #fff;
 
   width: 400px;
   height: 400px;
@@ -422,7 +422,7 @@ span.text-red {
   transition: 0.3s ease-in-out;
 }
 .product-detail-image:hover {
-  background-color: #f02d34;
+  background-color: #ebebeb;
 }
 .small-images-container {
   display: flex;
@@ -431,14 +431,14 @@ span.text-red {
 }
 .small-image {
   border-radius: 8px;
-  background-color: #ebebeb;
+  background-color: #fff;
   width: 70px;
   height: 70px;
   cursor: pointer;
 }
 
 .selected-image {
-  background-color: #f02d34;
+  background-color: #ebebeb;
 }
 .reviews {
   color: #f02d34;
