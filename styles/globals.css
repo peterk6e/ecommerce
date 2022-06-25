@@ -524,6 +524,9 @@ span.text-red {
 }
 .quantity-desc .minus {
   border-right: 1px solid gray;
+  color: #b47274;
+}
+.quantity-desc .minus:hover {
   color: #f02d34;
 }
 .quantity-desc .num {
@@ -531,7 +534,10 @@ span.text-red {
   font-size: 20px;
 }
 .quantity-desc .plus {
-  color: rgb(49, 168, 49);
+  color: rgb(105, 155, 105);
+}
+.quantity-desc .plus:hover {
+  color: rgb(40, 137, 40);
 }
 
 .maylike-products-wrapper {
