@@ -28,7 +28,7 @@ a {
 .navbar-container {
   display: flex;
   justify-content: space-between;
-  margin: 6px 18px;
+  margin: 8px 18px;
   position: relative;
 }
 .marquee-text {
@@ -130,7 +130,7 @@ span.text-red {
 
 .hero-banner-container {
   padding: 100px 40px;
-  background-color: #dcdcdc;
+  background-color: #eee;
   border-radius: 15px;
   position: relative;
   height: 500px;
@@ -570,7 +570,7 @@ span.text-red {
   width: 1000px;
   margin: auto;
   margin-top: 160px;
-  background-color: #dcdcdc;
+  background-color: #eee;
   padding: 50px;
   border-radius: 15px;
   display: flex;
