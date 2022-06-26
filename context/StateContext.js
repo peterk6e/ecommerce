@@ -1,8 +1,6 @@
 import React, {
-  CreateContext,
   useContext,
   useState,
-  useEffect,
   createContext,
 } from "react";
 
@@ -110,6 +108,9 @@ export const StateContext = ({ children }) => {
         setShowCart,
         toggleCartItemQuantity,
         onRemove,
+        setCartItems,
+        setTotalPrice,
+        setTotalQuantities,
       }}
     >
       {children}
